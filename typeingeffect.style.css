@@ -1,0 +1,20 @@
+.typing{
+  animation:fadeIn infinite;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  visibility: hidden;
+  font-size:1.2em;
+}
+
+.typing::before{
+  content: "|";
+}
+
+@keyframes fadeIn {
+  65% {
+    visibility: hidden;
+  }
+  100% {
+    visibility: visible;
+  }
+}

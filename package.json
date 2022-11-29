@@ -1,0 +1,20 @@
+{
+  "name": "type_effect_package",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000t\u0000y\u0000p\u0000e\u0000_\u0000e\u0000f\u0000f\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "typeingeffect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abduerahman/type_effect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abduerahman/type_effect/issues"
+  },
+  "homepage": "https://github.com/abduerahman/type_effect#readme"
+}
